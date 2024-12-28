@@ -52,37 +52,37 @@ Você pode abrir diretamente clicando duas vezes no arquivo ou usando uma extens
 
 ## 📝 Melhorias Futuras
 
-Adicionar configurações para o usuário alterar as cores do plano de fundo manualmente.
+- Adicionar configurações para o usuário alterar as cores do plano de fundo manualmente.
 
-Implementar a exibição de fusos horários.
+- Implementar a exibição de fusos horários.
 
-Adicionar um botão para alternar entre modo claro e escuro.
+- Adicionar um botão para alternar entre modo claro e escuro.
 
 ## 🤝 Contribuição
 
-Sinta-se à vontade para contribuir com este projeto!
+**Sinta-se à vontade para contribuir com este projeto!**
 
-**Faça um fork do repositório.**
+1. Faça um fork do repositório.
 
-Crie uma branch para sua funcionalidade:
+2. Crie uma branch para sua funcionalidade:
 
 ```bash
 git checkout -b minha-feature
 ```
 
-Faça um commit das suas alterações:
+3. Faça um commit das suas alterações:
 
 ```bash
 git commit -m "Adicionar nova funcionalidade"
 ```
 
-Envie para sua branch:
+4. Envie para sua branch:
 
 ```bash
 git push origin minha-feature
 ```
 
-Abra um Pull Request no GitHub.
+5. Abra um Pull Request no GitHub.
 
 ## Apoie-me:
 
