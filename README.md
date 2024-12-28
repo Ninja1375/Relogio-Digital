@@ -25,7 +25,7 @@ Este projeto é um relógio digital estilizado que exibe o horário e a data atu
 ```bash
 📁 Relogio-Digital
 ├── index.html       # Estrutura HTML
-├── style.css       # Estilo do relógio
+├── style.css        # Estilo do relógio
 └── script.js        # Lógica do relógio e plano de fundo
 ```
 
@@ -81,7 +81,3 @@ git push origin minha-feature
 ```
 
 Abra um Pull Request no GitHub.
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
