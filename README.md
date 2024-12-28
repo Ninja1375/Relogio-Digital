@@ -50,6 +50,8 @@ Você pode abrir diretamente clicando duas vezes no arquivo ou usando uma extens
 
 ## 📸 Demonstração
 
+**[Relógio Digital com Fundo Dinâmico](https://ninja1375.github.io/Relogio-Digital/)**
+
 ## 📝 Melhorias Futuras
 
 - Adicionar configurações para o usuário alterar as cores do plano de fundo manualmente.
